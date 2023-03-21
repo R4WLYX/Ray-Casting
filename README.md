@@ -1,5 +1,5 @@
-# Ray-Tracing
-Simple ray-tracing engine in c++
+# Ray-Casting
+Simple ray-casting engine in c++
 
 # Movement
 W - Forwards<br>
