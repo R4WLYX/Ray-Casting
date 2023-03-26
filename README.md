@@ -9,3 +9,5 @@ D - Strafe Right<br>
 Q - Turn Left<br>
 E - Turn Right<br>
 Shift - Sprint
+
+# Game Play
